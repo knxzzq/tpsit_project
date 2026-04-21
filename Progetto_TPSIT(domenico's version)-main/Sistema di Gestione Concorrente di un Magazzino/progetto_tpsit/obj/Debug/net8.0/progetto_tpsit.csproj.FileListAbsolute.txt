@@ -1,0 +1,14 @@
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.AssemblyInfoInputs.cache
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.AssemblyInfo.cs
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.csproj.CoreCompileInputs.cache
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\bin\Debug\net8.0\progetto_tpsit.exe
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\bin\Debug\net8.0\progetto_tpsit.deps.json
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\bin\Debug\net8.0\progetto_tpsit.runtimeconfig.json
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\bin\Debug\net8.0\progetto_tpsit.dll
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\bin\Debug\net8.0\progetto_tpsit.pdb
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.dll
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\refint\progetto_tpsit.dll
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.pdb
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\progetto_tpsit.genruntimeconfig.cache
+C:\Users\domen\Desktop\Progetto_TPSIT-main\Sistema di Gestione Concorrente di un Magazzino\Progetto_TPSIT\obj\Debug\net8.0\ref\progetto_tpsit.dll
