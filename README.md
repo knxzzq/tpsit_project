@@ -1,6 +1,6 @@
 Markdown 
 
-# SmartLogistics: Concurrent Warehouse Simulation :robot::package:
+# SmartLogistics: Concurrent Warehouse Simulation
 
 ## Overview
 SmartLogistics is a multi-threaded C# console application that simulates the operations of an automated warehouse. The project practically demonstrates the classic **Producer-Consumer problem**, utilizing concurrent threads (simulating robots) to handle the deposit and retrieval of packages of various sizes: Small, Medium, and Large.
@@ -27,3 +27,5 @@ To run this simulation on your local machine, ensure you have the [.NET SDK](htt
 3. Build and execute the project using the following command:
    bash
    dotnet run
+
+*Copyright © 2026 knxzzq' and Domenico Maresca. All Rights Reserved.*
